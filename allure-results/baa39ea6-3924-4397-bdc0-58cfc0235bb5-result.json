@@ -1,0 +1,58 @@
+{
+    "name": "useAppContext",
+    "start": 1661119718858,
+    "stop": 1661119721222,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "d8c4fad4-b0b8-43b2-98d1-298e1501c5e2-attachment.png",
+            "name": "useAppContext",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "baa39ea6-3924-4397-bdc0-58cfc0235bb5",
+    "historyId": "33edbbd641fcb1fd4edf97eb1f88f228",
+    "fullName": "com.example.compose.ExampleInstrumentedTest.useAppContext",
+    "labels": [
+        {
+            "name": "package",
+            "value": "com.example.compose"
+        },
+        {
+            "name": "testClass",
+            "value": "com.example.compose.ExampleInstrumentedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "useAppContext"
+        },
+        {
+            "name": "suite",
+            "value": "com.example.compose.ExampleInstrumentedTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(271)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
