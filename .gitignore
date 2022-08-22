@@ -29,3 +29,7 @@ Thumbs.db
 build/
 sdcard
 allure-results.tar
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle
